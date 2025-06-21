@@ -1,0 +1,35 @@
+.home{
+    background-image: url('https://th.bing.com/th/id/OIP.NYvbWSyYPLl49FPcOCbxJgHaHa?r=0&rs=1&pid=ImgDetMain');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+    color: hsl(338, 85%, 3%);
+}
+.navbar ul{
+    
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    align-items: center;
+    
+
+}
+.navbar{
+
+    
+background-color: rgb(213, 211, 210);
+
+}
+.navbar ul {
+ 
+  
+    padding: 10px 20px;
+    
+}
+.bmi{
+    background-color: rgb(171, 171, 236);
+}
+.contact{
+    background-color: rgb(150, 201, 201);
+}
